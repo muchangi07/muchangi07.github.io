@@ -1,0 +1,12 @@
+html{
+	height: 100%;
+}
+ul,li{
+	text-decoration: none;
+	list-style: none;
+}
+#footer{
+	float: left;
+	margin-left: 120px;
+}
+	
